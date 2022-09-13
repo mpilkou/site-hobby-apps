@@ -156,4 +156,4 @@ cython_debug/
 
 # VS Code files
 *.code-workspace
-
+.vscode
